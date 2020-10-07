@@ -9,7 +9,6 @@ const delay = (ms) => {
       resolve(ms);
     }, ms);
   });
-  console.log(promise);
   return promise;
 };
 

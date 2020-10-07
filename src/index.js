@@ -1,5 +1,4 @@
 import css from "./css/style.css";
-// import all from "./task-1";
-// import all from "./task-2";
-// import all from "./task-2.1";
-import all from "./task-3";
+import task1 from "./task-1";
+import task2 from "./task-2";
+import task3 from "./task-3";
